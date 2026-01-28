@@ -1,0 +1,278 @@
+{
+  "polls": [
+    {
+      "id": 1769575169882,
+      "question": "what is u r name ",
+      "isActive": true,
+      "createdAt": "2026-01-28T04:39:29.882Z"
+    },
+    {
+      "id": 1769576151671,
+      "question": "netn",
+      "isActive": true,
+      "createdAt": "2026-01-28T04:55:51.671Z"
+    },
+    {
+      "id": 1769576191822,
+      "question": "cars ",
+      "isActive": true,
+      "createdAt": "2026-01-28T04:56:31.822Z"
+    },
+    {
+      "id": 1769577992889,
+      "question": "vwevev",
+      "isActive": true,
+      "createdAt": "2026-01-28T05:26:32.889Z"
+    },
+    {
+      "id": 1769578054295,
+      "question": "wefewv",
+      "isActive": true,
+      "createdAt": "2026-01-28T05:27:34.295Z"
+    },
+    {
+      "id": 1769578325199,
+      "question": "eve2v",
+      "isActive": true,
+      "createdAt": "2026-01-28T05:32:05.199Z"
+    },
+    {
+      "id": 1769579781410,
+      "question": "ofbvjkbnurwb",
+      "isActive": true,
+      "createdAt": "2026-01-28T05:56:21.410Z"
+    },
+    {
+      "id": 1769582845083,
+      "question": "fdnet",
+      "isActive": true,
+      "createdAt": "2026-01-28T06:47:25.083Z"
+    },
+    {
+      "id": 1769583168319,
+      "question": "tgt",
+      "isActive": true,
+      "createdAt": "2026-01-28T06:52:48.319Z"
+    },
+    {
+      "id": 1769583424523,
+      "question": "t4t4n",
+      "isActive": true,
+      "createdAt": "2026-01-28T06:57:04.523Z"
+    },
+    {
+      "id": 1769583503749,
+      "question": "ev",
+      "isActive": true,
+      "createdAt": "2026-01-28T06:58:23.749Z"
+    },
+    {
+      "id": 1769583772606,
+      "question": "nfvn",
+      "isActive": true,
+      "createdAt": "2026-01-28T07:02:52.606Z"
+    }
+  ],
+  "options": [
+    {
+      "id": 1769575169882,
+      "pollId": 1769575169882,
+      "text": "pushpak",
+      "votes": 1
+    },
+    {
+      "id": 1769575169883,
+      "pollId": 1769575169882,
+      "text": "rahul ",
+      "votes": 0
+    },
+    {
+      "id": 1769576151671,
+      "pollId": 1769576151671,
+      "text": "tjetdjn",
+      "votes": 0
+    },
+    {
+      "id": 1769576151672,
+      "pollId": 1769576151671,
+      "text": "ensn",
+      "votes": 1
+    },
+    {
+      "id": 1769576191822,
+      "pollId": 1769576191822,
+      "text": "bmw ",
+      "votes": 0
+    },
+    {
+      "id": 1769576191823,
+      "pollId": 1769576191822,
+      "text": "mercedes",
+      "votes": 1
+    },
+    {
+      "id": 1769577992889,
+      "pollId": 1769577992889,
+      "text": "eve2v",
+      "votes": 1
+    },
+    {
+      "id": 1769577992890,
+      "pollId": 1769577992889,
+      "text": "eve2",
+      "votes": 0
+    },
+    {
+      "id": 1769578054295,
+      "pollId": 1769578054295,
+      "text": "ef",
+      "votes": 1
+    },
+    {
+      "id": 1769578054296,
+      "pollId": 1769578054295,
+      "text": "ev",
+      "votes": 0
+    },
+    {
+      "id": 1769578325199,
+      "pollId": 1769578325199,
+      "text": "uiky",
+      "votes": 1
+    },
+    {
+      "id": 1769578325200,
+      "pollId": 1769578325199,
+      "text": "tjtyn",
+      "votes": 0
+    },
+    {
+      "id": 1769579781410,
+      "pollId": 1769579781410,
+      "text": "fbwrb",
+      "votes": 1
+    },
+    {
+      "id": 1769579781411,
+      "pollId": 1769579781410,
+      "text": "efbrenbr",
+      "votes": 0
+    },
+    {
+      "id": 1769582845083,
+      "pollId": 1769582845083,
+      "text": "nern",
+      "votes": 0
+    },
+    {
+      "id": 1769582845084,
+      "pollId": 1769582845083,
+      "text": "ern",
+      "votes": 0
+    },
+    {
+      "id": 1769583168319,
+      "pollId": 1769583168319,
+      "text": "ebet ",
+      "votes": 1
+    },
+    {
+      "id": 1769583168320,
+      "pollId": 1769583168319,
+      "text": "ebetbr",
+      "votes": 0
+    },
+    {
+      "id": 1769583424523,
+      "pollId": 1769583424523,
+      "text": "tnt",
+      "votes": 0
+    },
+    {
+      "id": 1769583424524,
+      "pollId": 1769583424523,
+      "text": "tn",
+      "votes": 0
+    },
+    {
+      "id": 1769583503749,
+      "pollId": 1769583503749,
+      "text": "ev",
+      "votes": 1
+    },
+    {
+      "id": 1769583503750,
+      "pollId": 1769583503749,
+      "text": "ev",
+      "votes": 0
+    },
+    {
+      "id": 1769583772606,
+      "pollId": 1769583772606,
+      "text": "detn",
+      "votes": 0
+    },
+    {
+      "id": 1769583772607,
+      "pollId": 1769583772606,
+      "text": "edrh",
+      "votes": 0
+    }
+  ],
+  "votes": [
+    {
+      "id": 1769575176478,
+      "pollId": "1769575169882",
+      "optionId": "1769575169882",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769576197933,
+      "pollId": "1769576191822",
+      "optionId": "1769576191823",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769577014437,
+      "pollId": "1769576151671",
+      "optionId": "1769576151672",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769577999757,
+      "pollId": "1769577992889",
+      "optionId": "1769577992889",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769578086749,
+      "pollId": "1769578054295",
+      "optionId": "1769578054295",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769578331283,
+      "pollId": "1769578325199",
+      "optionId": "1769578325199",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769579790161,
+      "pollId": "1769579781410",
+      "optionId": "1769579781410",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769583182401,
+      "pollId": "1769583168319",
+      "optionId": "1769583168319",
+      "userIp": "::1"
+    },
+    {
+      "id": 1769583518871,
+      "pollId": "1769583503749",
+      "optionId": "1769583503749",
+      "userIp": "::1"
+    }
+  ]
+}
